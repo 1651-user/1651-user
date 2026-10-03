@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/1651-user.png?size=200" width="150" alt="Sravya Isukapatla" />
+
 # Hey, I'm Sravya Isukapatla!
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;Mobile+App+Engineer;AI+%26+Computer+Vision+Explorer;Creative+Problem+Solver)
@@ -8,6 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1651-user&label=Profile%20views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-F75C7E?style=for-the-badge" alt="Open to Internships" />
+  <img src="https://img.shields.io/badge/Location-India-111111?style=for-the-badge&logo=google-maps&logoColor=F75C7E" alt="Location" />
 </p>
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
@@ -175,7 +179,12 @@ console.log("Let's build something amazing together!");
 - Cross-platform mobile app
 - Clean, intuitive UI
 
-*Tech:* Dart Flutter Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/IoT-F75C7E?style=for-the-badge" alt="IoT" />
+</p>
 
 #### [AirSense Health](https://github.com/1651-user/airsense-health)
 *Health-focused air quality tracker*
@@ -184,7 +193,11 @@ console.log("Let's build something amazing together!");
 - Alert system for poor air quality
 - TypeScript-powered backend
 
-*Tech:* TypeScript Health Tech Data Visualization
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Health%20Tech-00A86B?style=for-the-badge" alt="Health Tech" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-F75C7E?style=for-the-badge" alt="Data Visualization" />
+</p>
 
 ---
 
@@ -197,7 +210,11 @@ console.log("Let's build something amazing together!");
 - Customizable visual effects
 - Optimized performance
 
-*Tech:* TypeScript Three.js WebGL 3D Graphics
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge" alt="WebGL" />
+</p>
 
 #### [Meme Generator](https://github.com/1651-user/meme-generator)
 *Fun meme creation tool*
@@ -206,7 +223,11 @@ console.log("Let's build something amazing together!");
 - Download generated memes
 - Simple, intuitive interface
 
-*Tech:* JavaScript HTML5 Canvas API
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Canvas-F75C7E?style=for-the-badge" alt="Canvas" />
+</p>
 
 ---
 
@@ -221,6 +242,11 @@ console.log("Let's build something amazing together!");
 
 *Live:* [1651-user.github.io](https://1651-user.github.io)
 
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Responsive-0E75B6?style=for-the-badge" alt="Responsive" />
+</p>
+
 #### [Borderly Visa](https://github.com/1651-user/borderly-visa)
 *Full-stack visa application platform*
 - Visa application management
@@ -229,6 +255,12 @@ console.log("Let's build something amazing together!");
 - Full-stack architecture
 
 *Live:* [borderly-visa.vercel.app](https://borderly-visa.vercel.app)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
@@ -241,7 +273,11 @@ console.log("Let's build something amazing together!");
 - Gaze tracking
 - Python-powered
 
-*Tech:* Python OpenCV Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-F75C7E?style=for-the-badge" alt="Computer Vision" />
+</p>
 
 ---
 
@@ -254,7 +290,11 @@ console.log("Let's build something amazing together!");
 - ETA calculations
 - Notifications
 
-*Tech:* C++ IoT GPS Integration
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/GPS-F75C7E?style=for-the-badge" alt="GPS" />
+  <img src="https://img.shields.io/badge/Real--time-0E75B6?style=for-the-badge" alt="Real-time" />
+</p>
 
 #### [Job Bot](https://github.com/1651-user/Job_Bot)
 *Automated job posting and applicant tracking*
@@ -263,7 +303,10 @@ console.log("Let's build something amazing together!");
 - Analytics dashboard
 - Workflow automation
 
-*Tech:* Automation Job Management
+<p>
+  <img src="https://img.shields.io/badge/Automation-F75C7E?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Analytics-0E75B6?style=for-the-badge" alt="Analytics" />
+</p>
 
 #### [Basic Programming](https://github.com/1651-user/basic_programming)
 *Programming fundamentals and exercises*
@@ -272,7 +315,10 @@ console.log("Let's build something amazing together!");
 - Educational content
 - Practice projects
 
-*Tech:* HTML Educational
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Learning-0E75B6?style=for-the-badge" alt="Learning" />
+</p>
 
 ---
 
@@ -280,11 +326,22 @@ console.log("Let's build something amazing together!");
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=1651-user&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1651-user&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
     <td width="55%" valign="top">
       <br/>
       <img src="https://streak-stats.demolab.com/?user=1651-user&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" width="100%" />
       <br/><br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=1651-user&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=C9D1D9" alt="Activity Graph" width="100%" />
+      <img src="https://ghchart.rshah.org/f75c7e/1651-user" alt="GitHub contribution chart" width="100%" />
     </td>
     <td width="45%" valign="top" align="center">
       <br/>
@@ -296,8 +353,13 @@ console.log("Let's build something amazing together!");
         <tr><td><i>Active Since</i></td><td align="center">March 2025</td></tr>
       </table>
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=1651-user&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" width="100%"/>
-      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/1651-user?style=for-the-badge&color=F75C7E" alt="Stars" />
+        <img src="https://img.shields.io/github/followers/1651-user?style=for-the-badge&logo=github&color=F75C7E" alt="Followers" />
+        <img src="https://img.shields.io/github/repos/1651-user?style=for-the-badge&color=F75C7E" alt="Repos" />
+        <img src="https://img.shields.io/github/last-commit/1651-user?style=for-the-badge&color=F75C7E" alt="Last commit" />
+      </p>
+      <br/>
       <table border="0">
         <tr><td align="center"><b>Technology</b></td><td align="center"><b>Primary Use</b></td><td align="center"><b>Projects</b></td></tr>
         <tr><td><i>TypeScript</i></td><td align="center">Web Apps, 3D Graphics</td><td align="center">4</td></tr>
@@ -319,11 +381,11 @@ console.log("Let's build something amazing together!");
 
 | Domain | Technologies | Proficiency |
 |--------|-------------|-------------|
-| *Mobile Development* | Flutter, Dart, Cross-platform | ████████████████████ 95% |
-| *Web Development* | TypeScript, React, Next.js | ███████████████████ 90% |
-| *3D Graphics* | Three.js, WebGL, Particles | ██████████████████ 85% |
-| *AI/Computer Vision* | Python, OpenCV, Eye Tracking | ████████████████ 80% |
-| *IoT & Systems* | C++, GPS, Real-time Systems | ███████████████ 75% |
+| *Mobile Development* | Flutter, Dart, Cross-platform | ![](https://img.shields.io/badge/-95%25-F75C7E?style=for-the-badge) |
+| *Web Development* | TypeScript, React, Next.js | ![](https://img.shields.io/badge/-90%25-F75C7E?style=for-the-badge) |
+| *3D Graphics* | Three.js, WebGL, Particles | ![](https://img.shields.io/badge/-85%25-F75C7E?style=for-the-badge) |
+| *AI/Computer Vision* | Python, OpenCV, Eye Tracking | ![](https://img.shields.io/badge/-80%25-F75C7E?style=for-the-badge) |
+| *IoT & Systems* | C++, GPS, Real-time Systems | ![](https://img.shields.io/badge/-75%25-F75C7E?style=for-the-badge) |
 
 </div>
 
