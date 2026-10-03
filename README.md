@@ -1,16 +1,31 @@
-
 <div align="center">
 
 # 👩‍💻 Hey, I'm Sravya Isukapatla!
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+💻;Mobile+App+Enthusiast+📱;AI+%26+Computer+Vision+Explorer+🤖;Creative+Problem+Solver+✨;Curious+About+Everything+🔍)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1651-user)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://1651-user.github.io)
+<h3 align="center">Computer Science student · Full-Stack &amp; Mobile Developer · IoT, Real-Time Systems &amp; AI/Computer Vision</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1651-user&label=Profile%20views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
+
+---
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://github.com/1651-user" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://1651-user.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:sravyaisukapatla@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="./assets/Sravya_Isukapatla_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-F75C7E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+</p>
+
+---
 
 ## 🚀 About Me
 
@@ -40,9 +55,71 @@ console.log("Let's build something amazing together! 🚀");
 
 ---
 
-## 🛠 Tech Stack
+## 📄 Résumé
 
-<div align="center">
+> Computer Science student with experience in full-stack development, IoT systems, and real-time data processing. Skilled in Python, JavaScript, Dart, and backend development with hands-on experience building scalable applications and sensor-based monitoring systems. Experienced with Flutter, Node.js, MQTT, REST APIs, and containerized applications. Interested in backend engineering, cloud computing, and distributed systems.
+
+<p align="center">
+  <a href="./assets/Sravya_Isukapatla_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-F75C7E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" /></a>
+</p>
+
+**Core skills:** Python · JavaScript · Dart · C · Java · HTML/CSS · Flutter · Node.js · Flask · React · MongoDB · Firebase · Supabase · Docker · Linux · MQTT · REST APIs
+
+### 🎓 Education
+
+| Institution | Program | Year | Result |
+|-------------|---------|------|--------|
+| **Pondicherry University** | B.Sc Computer Science (Honours) | 2023 – 2027 | — |
+| **Ashram Public School** | Higher Secondary (CBSE) | 2023 | 83% |
+| **St. Joseph Convent School** | ICSE, 10th Grade | 2021 | 80% |
+
+### 💼 Experience
+
+- **Research Intern — IIT Madras Energy Consortium** _(May – Jul 2026)_ · *Digital Twin Based Smart Grid Automation System (Ongoing)*
+  - Designing a Digital Twin framework for the IEEE-33 bus distribution network to simulate and monitor power distribution systems.
+  - Exploring OpenDSS integration for power flow analysis, voltage monitoring, and fault simulation.
+  - Planning a Docker-based microservice architecture for voltage monitoring, fault detection, switching control, and service restoration.
+  - Researching Retrieval-Augmented Generation (RAG) for natural-language interaction with grid data, plus cloud-native approaches for scalable smart grid automation.
+
+- **Intern — SeraphGuard Labs** _(March 2026)_
+  - Developing cross-platform mobile interfaces using Flutter for the Guardian AI parental control platform.
+  - Implementing real-time monitoring dashboards for digital activity insights and safety alerts.
+  - Integrating backend APIs and collaborating with AI teams to support intelligent monitoring features.
+
+- **Intern — University of Hyderabad | AirSense 5G** _(2024 – 2025)_
+  - Developed an IoT-based air-quality monitoring application integrating 5 MQTT sensors with real-time data streaming.
+  - Built a Flask backend integrating a local Small Language Model (Phi-2) via LM Studio for intelligent air-quality insights.
+  - Implemented a machine-learning prediction pipeline using Linear Regression for environmental metrics.
+  - Designed a real-time data pipeline converting MQTT sensor streams into structured datasets with dashboard updates every 30 seconds.
+
+- **Intern — Mobile App Development, ONGC — Dehradun** _(May – Jul 2024)_
+  - Developed a cross-platform mobile application using Flutter and Dart with Firebase backend integration.
+  - Built responsive interfaces providing real-time access to event schedules, notifications, and updates.
+  - Implemented backend data synchronization for dynamic event management and user interaction.
+
+### 🏆 Certifications & Workshops
+
+- **NPTEL Ethical Hacking Certification** — vulnerability assessment and network security fundamentals.
+- **AI/ML for GeoData Analysis (ISRO)** — geo-data processing and machine learning for satellite imagery.
+- **Drone Security Workshop** — securing RF/MAVLink communication protocols using Kali Linux.
+
+### 🎯 Technical Interests
+
+`Cloud Computing` · `Backend Systems` · `Distributed Systems` · `DevOps` · `IoT Platforms`
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,dart,flutter,react,nextjs,nodejs,mongo,firebase,docker,linux,git,aws,vercel,vscode,figma&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+
+<details>
+  <summary><b>View detailed skill badges</b></summary>
+  <br/>
 
 ### 💻 Languages
 
@@ -52,20 +129,38 @@ console.log("Let's build something amazing together! 🚀");
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 📱 Mobile & Web Frameworks
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🎨 Creative & Tools
+### 🗄 Databases & Cloud
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### ⚙ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mercedes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-</div>
+</details>
 
 ---
 
@@ -181,50 +276,40 @@ console.log("Let's build something amazing together! 🚀");
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
-<div align="center">
-
-### 📈 My GitHub Journey
-
-![Profile Views](https://komarev.com/ghpvc/?username=1651-user&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-| 📊 Metric | 📈 Value |
-|-----------|----------|
-| *Total Repositories* | 11 Public Projects |
-| *Primary Languages* | TypeScript, Dart, Python, C++ |
-| *Specializations* | Mobile Dev, Web Dev, AI/CV |
-| *Active Since* | March 2025 |
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=1651-user&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1651-user&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=C9D1D9" alt="Contribution Graph"/>
-
-<br/>
-
-### 🏅 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=1651-user&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-<br/>
-
-### 💻 Tech Stack Breakdown
-
-| Technology | Primary Use | Projects |
-|------------|-------------|----------|
-| 💙 *TypeScript* | Web Apps, 3D Graphics | 4 projects |
-| 🎯 *Dart/Flutter* | Mobile Development | 2 projects |
-| 🐍 *Python* | AI/ML, Computer Vision | 1 project |
-| ⚙ *C++* | IoT, Systems Programming | 1 project |
-| 🌐 *JavaScript/HTML* | Web Development | 3 projects |
-
-</div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=1651-user&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=1651-user&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=C9D1D9" alt="Activity Graph" width="100%" />
+    </td>
+    <td width="45%" valign="top" align="center">
+      <br/>
+      <table border="0">
+        <tr><td align="center"><b>📊 Metric</b></td><td align="center"><b>📈 Value</b></td></tr>
+        <tr><td><i>Total Repositories</i></td><td align="center">11 Public Projects</td></tr>
+        <tr><td><i>Primary Languages</i></td><td align="center">TypeScript, Dart, Python, C++</td></tr>
+        <tr><td><i>Specializations</i></td><td align="center">Mobile Dev, Web Dev, AI/CV</td></tr>
+        <tr><td><i>Active Since</i></td><td align="center">March 2025</td></tr>
+      </table>
+      <br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=1651-user&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" width="100%"/>
+      <br/><br/>
+      <table border="0">
+        <tr><td align="center"><b>💻 Technology</b></td><td align="center"><b>🎯 Primary Use</b></td><td align="center"><b>📦 Projects</b></td></tr>
+        <tr><td><i>TypeScript</i></td><td align="center">Web Apps, 3D Graphics</td><td align="center">4</td></tr>
+        <tr><td><i>Dart / Flutter</i></td><td align="center">Mobile Development</td><td align="center">2</td></tr>
+        <tr><td><i>Python</i></td><td align="center">AI/ML, Computer Vision</td><td align="center">1</td></tr>
+        <tr><td><i>C++</i></td><td align="center">IoT, Systems Programming</td><td align="center">1</td></tr>
+        <tr><td><i>JavaScript / HTML</i></td><td align="center">Web Development</td><td align="center">3</td></tr>
+      </table>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -251,6 +336,7 @@ console.log("Let's build something amazing together! 🚀");
 - 🎨 *3D Graphics*: Creating interactive particle systems and visualizations
 - 🤖 *AI/ML*: Exploring computer vision and eye tracking technologies
 - 🌐 *Web Development*: Crafting modern, responsive web applications
+- ⚡ *Smart Grids*: Digital Twin automation for IEEE-33 distribution networks at IIT Madras
 
 ---
 
@@ -283,6 +369,18 @@ mindmap
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1651-user/1651-user/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1651-user/1651-user/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1651-user/1651-user/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -295,6 +393,8 @@ mindmap
 
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1651-user)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://1651-user.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sravyaisukapatla@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-F75C7E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Sravya_Isukapatla_Resume.pdf)
 
 <br>
 
