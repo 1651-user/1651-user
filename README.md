@@ -31,8 +31,6 @@
 
 ---
 
-## Résumé
-
 ### Education
 
 | Institution | Program | Year | Result |
