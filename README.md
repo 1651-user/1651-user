@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👩‍💻 Hey, I'm Sravya Isukapatla!
+# Hey, I'm Sravya Isukapatla!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+💻;Mobile+App+Enthusiast+📱;AI+%26+Computer+Vision+Explorer+🤖;Creative+Problem+Solver+✨;Curious+About+Everything+🔍)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;Mobile+App+Engineer;AI+%26+Computer+Vision+Explorer;Creative+Problem+Solver)
 
 <h3 align="center">Computer Science student · Full-Stack &amp; Mobile Developer · IoT, Real-Time Systems &amp; AI/Computer Vision</h3>
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🔗 Connect with me
+### Connect with me
 
 <p align="center">
   <a href="https://github.com/1651-user" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 > "Curious about knowing" - Exploring the endless possibilities of code, one project at a time
 
@@ -45,17 +45,17 @@ interface Developer {
 const sravya: Developer = {
     name: "Sravya Isukapatla",
     role: "Full-Stack Developer & Mobile Enthusiast",
-    location: "India 🇮🇳",
+    location: "India",
     passions: ["Mobile Development", "Web Apps", "AI/ML", "3D Graphics"],
     currentlyLearning: ["Flutter", "TypeScript", "Computer Vision", "IoT"]
 };
 
-console.log("Let's build something amazing together! 🚀");
+console.log("Let's build something amazing together!");
 ```
 
 ---
 
-## 📄 Résumé
+## Résumé
 
 > Computer Science student with experience in full-stack development, IoT systems, and real-time data processing. Skilled in Python, JavaScript, Dart, and backend development with hands-on experience building scalable applications and sensor-based monitoring systems. Experienced with Flutter, Node.js, MQTT, REST APIs, and containerized applications. Interested in backend engineering, cloud computing, and distributed systems.
 
@@ -65,7 +65,7 @@ console.log("Let's build something amazing together! 🚀");
 
 **Core skills:** Python · JavaScript · Dart · C · Java · HTML/CSS · Flutter · Node.js · Flask · React · MongoDB · Firebase · Supabase · Docker · Linux · MQTT · REST APIs
 
-### 🎓 Education
+### Education
 
 | Institution | Program | Year | Result |
 |-------------|---------|------|--------|
@@ -73,7 +73,7 @@ console.log("Let's build something amazing together! 🚀");
 | **Ashram Public School** | Higher Secondary (CBSE) | 2023 | 83% |
 | **St. Joseph Convent School** | ICSE, 10th Grade | 2021 | 80% |
 
-### 💼 Experience
+### Experience
 
 - **Research Intern — IIT Madras Energy Consortium** _(May – Jul 2026)_ · *Digital Twin Based Smart Grid Automation System (Ongoing)*
   - Designing a Digital Twin framework for the IEEE-33 bus distribution network to simulate and monitor power distribution systems.
@@ -97,19 +97,19 @@ console.log("Let's build something amazing together! 🚀");
   - Built responsive interfaces providing real-time access to event schedules, notifications, and updates.
   - Implemented backend data synchronization for dynamic event management and user interaction.
 
-### 🏆 Certifications & Workshops
+### Certifications & Workshops
 
 - **NPTEL Ethical Hacking Certification** — vulnerability assessment and network security fundamentals.
 - **AI/ML for GeoData Analysis (ISRO)** — geo-data processing and machine learning for satellite imagery.
 - **Drone Security Workshop** — securing RF/MAVLink communication protocols using Kali Linux.
 
-### 🎯 Technical Interests
+### Technical Interests
 
 `Cloud Computing` · `Backend Systems` · `Distributed Systems` · `DevOps` · `IoT Platforms`
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -121,7 +121,7 @@ console.log("Let's build something amazing together! 🚀");
   <summary><b>View detailed skill badges</b></summary>
   <br/>
 
-### 💻 Languages
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -133,7 +133,7 @@ console.log("Let's build something amazing together! 🚀");
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 📱 Mobile & Web Frameworks
+### Mobile & Web Frameworks
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -142,14 +142,14 @@ console.log("Let's build something amazing together! 🚀");
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄 Databases & Cloud
+### Databases & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### ⚙ DevOps & Tools
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -164,119 +164,119 @@ console.log("Let's build something amazing together! 🚀");
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 📱 Mobile Development
+### Mobile Development
 
-#### 🌍 [AirSense5G](https://github.com/1651-user/Airsense5g)
+#### [AirSense5G](https://github.com/1651-user/Airsense5g)
 *Flutter-based air quality monitoring application*
-- 📊 Real-time air quality data visualization
-- 🗺 Location-based monitoring
-- 📱 Cross-platform mobile app
-- 🎨 Beautiful, intuitive UI
+- Real-time air quality data visualization
+- Location-based monitoring
+- Cross-platform mobile app
+- Clean, intuitive UI
 
 *Tech:* Dart Flutter Mobile Development
 
-#### 🌬 [AirSense Health](https://github.com/1651-user/airsense-health)
+#### [AirSense Health](https://github.com/1651-user/airsense-health)
 *Health-focused air quality tracker*
-- 💊 Health recommendations based on air quality
-- 📈 Data analytics and trends
-- 🔔 Alert system for poor air quality
-- 🎯 TypeScript-powered backend
+- Health recommendations based on air quality
+- Data analytics and trends
+- Alert system for poor air quality
+- TypeScript-powered backend
 
 *Tech:* TypeScript Health Tech Data Visualization
 
 ---
 
-### 🎨 Creative & Interactive
+### Creative & Interactive
 
-#### ✨ [Zen3DParticles](https://github.com/1651-user/Zen3DParticles)
+#### [Zen3DParticles](https://github.com/1651-user/Zen3DParticles)
 *Interactive 3D particle system*
-- 🌌 Mesmerizing 3D particle animations
-- 🖱 Interactive mouse controls
-- 🎨 Customizable visual effects
-- ⚡ Optimized performance
+- 3D particle animations
+- Interactive mouse controls
+- Customizable visual effects
+- Optimized performance
 
 *Tech:* TypeScript Three.js WebGL 3D Graphics
 
-#### 😂 [Meme Generator](https://github.com/1651-user/meme-generator)
+#### [Meme Generator](https://github.com/1651-user/meme-generator)
 *Fun meme creation tool*
-- 🖼 Image upload and editing
-- ✏ Custom text overlay
-- 💾 Download generated memes
-- 🎯 Simple, intuitive interface
+- Image upload and editing
+- Custom text overlay
+- Download generated memes
+- Simple, intuitive interface
 
 *Tech:* JavaScript HTML5 Canvas API
 
 ---
 
-### 🌐 Web Development
+### Web Development
 
-#### 🌐 [Portfolio Website](https://github.com/1651-user/1651-user.github.io)
+#### [Portfolio Website](https://github.com/1651-user/1651-user.github.io)
 *Personal portfolio showcasing my work*
-- 🎨 Modern, responsive design
-- 📱 Mobile-friendly layout
-- ⚡ Fast loading times
-- 🚀 Deployed on GitHub Pages
+- Modern, responsive design
+- Mobile-friendly layout
+- Fast loading times
+- Deployed on GitHub Pages
 
 *Live:* [1651-user.github.io](https://1651-user.github.io)
 
-#### 🛂 [Borderly Visa](https://github.com/1651-user/borderly-visa)
+#### [Borderly Visa](https://github.com/1651-user/borderly-visa)
 *Full-stack visa application platform*
-- 📋 Visa application management
-- 👥 User authentication
-- 📊 Application tracking
-- 🌐 Full-stack architecture
+- Visa application management
+- User authentication
+- Application tracking
+- Full-stack architecture
 
 *Live:* [borderly-visa.vercel.app](https://borderly-visa.vercel.app)
 
 ---
 
-### 🤖 AI & Computer Vision
+### AI & Computer Vision
 
-#### 👁 [Eye Tracker](https://github.com/1651-user/eye-tracker)
+#### [Eye Tracker](https://github.com/1651-user/eye-tracker)
 *Computer vision-based eye tracking system*
-- 👀 Real-time eye detection
-- 📹 Webcam integration
-- 🎯 Gaze tracking
-- 🐍 Python-powered
+- Real-time eye detection
+- Webcam integration
+- Gaze tracking
+- Python-powered
 
 *Tech:* Python OpenCV Computer Vision
 
 ---
 
-### 🔧 Utility & Tools
+### Utility & Tools
 
-#### 🚌 [Bus Tracker](https://github.com/1651-user/bus_tracker)
+#### [Bus Tracker](https://github.com/1651-user/bus_tracker)
 *Real-time bus tracking system*
-- 📍 GPS-based location tracking
-- 🗺 Route visualization
-- ⏱ ETA calculations
-- 🔔 Notifications
+- GPS-based location tracking
+- Route visualization
+- ETA calculations
+- Notifications
 
 *Tech:* C++ IoT GPS Integration
 
-#### 🤖 [Job Bot](https://github.com/1651-user/Job_Bot)
+#### [Job Bot](https://github.com/1651-user/Job_Bot)
 *Automated job posting and applicant tracking*
-- 📝 Automated job postings
-- 👥 Applicant management
-- 📊 Analytics dashboard
-- 🔄 Workflow automation
+- Automated job postings
+- Applicant management
+- Analytics dashboard
+- Workflow automation
 
 *Tech:* Automation Job Management
 
-#### 📚 [Basic Programming](https://github.com/1651-user/basic_programming)
+#### [Basic Programming](https://github.com/1651-user/basic_programming)
 *Programming fundamentals and exercises*
-- 📖 Learning resources
-- 💻 Code examples
-- 🎓 Educational content
-- 🔧 Practice projects
+- Learning resources
+- Code examples
+- Educational content
+- Practice projects
 
 *Tech:* HTML Educational
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## GitHub Analytics & Activity
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -289,7 +289,7 @@ console.log("Let's build something amazing together! 🚀");
     <td width="45%" valign="top" align="center">
       <br/>
       <table border="0">
-        <tr><td align="center"><b>📊 Metric</b></td><td align="center"><b>📈 Value</b></td></tr>
+        <tr><td align="center"><b>Metric</b></td><td align="center"><b>Value</b></td></tr>
         <tr><td><i>Total Repositories</i></td><td align="center">11 Public Projects</td></tr>
         <tr><td><i>Primary Languages</i></td><td align="center">TypeScript, Dart, Python, C++</td></tr>
         <tr><td><i>Specializations</i></td><td align="center">Mobile Dev, Web Dev, AI/CV</td></tr>
@@ -299,7 +299,7 @@ console.log("Let's build something amazing together! 🚀");
       <img src="https://github-profile-trophy.vercel.app/?username=1651-user&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" width="100%"/>
       <br/><br/>
       <table border="0">
-        <tr><td align="center"><b>💻 Technology</b></td><td align="center"><b>🎯 Primary Use</b></td><td align="center"><b>📦 Projects</b></td></tr>
+        <tr><td align="center"><b>Technology</b></td><td align="center"><b>Primary Use</b></td><td align="center"><b>Projects</b></td></tr>
         <tr><td><i>TypeScript</i></td><td align="center">Web Apps, 3D Graphics</td><td align="center">4</td></tr>
         <tr><td><i>Dart / Flutter</i></td><td align="center">Mobile Development</td><td align="center">2</td></tr>
         <tr><td><i>Python</i></td><td align="center">AI/ML, Computer Vision</td><td align="center">1</td></tr>
@@ -313,7 +313,7 @@ console.log("Let's build something amazing together! 🚀");
 
 ---
 
-## 🎯 Skills Matrix
+## Skills Matrix
 
 <div align="center">
 
@@ -329,18 +329,18 @@ console.log("Let's build something amazing together! 🚀");
 
 ---
 
-## 💡 What I'm Currently Working On
+## What I'm Currently Working On
 
-- 📱 *Mobile Apps*: Building cross-platform applications with Flutter
-- 🌍 *Health Tech*: Developing air quality monitoring solutions
-- 🎨 *3D Graphics*: Creating interactive particle systems and visualizations
-- 🤖 *AI/ML*: Exploring computer vision and eye tracking technologies
-- 🌐 *Web Development*: Crafting modern, responsive web applications
-- ⚡ *Smart Grids*: Digital Twin automation for IEEE-33 distribution networks at IIT Madras
+- *Mobile Apps*: Building cross-platform applications with Flutter
+- *Health Tech*: Developing air quality monitoring solutions
+- *3D Graphics*: Creating interactive particle systems and visualizations
+- *AI/ML*: Exploring computer vision and eye tracking technologies
+- *Web Development*: Crafting modern, responsive web applications
+- *Smart Grids*: Digital Twin automation for IEEE-33 distribution networks at IIT Madras
 
 ---
 
-## 🌈 Project Highlights
+## Project Highlights
 
 <div align="center">
 
@@ -369,7 +369,7 @@ mindmap
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <picture>
@@ -381,13 +381,13 @@ mindmap
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
-### 💬 I'm always excited to collaborate on:
+### I'm always excited to collaborate on:
 
-📱 *Mobile App Development* | 🌐 *Web Applications* | 🎨 *Creative Tech Projects* | 🤖 *AI/ML Experiments*
+*Mobile App Development* | *Web Applications* | *Creative Tech Projects* | *AI/ML Experiments*
 
 <br>
 
@@ -404,18 +404,18 @@ mindmap
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-### ⭐ If you find my projects interesting, don't forget to star them!
+### If you find my projects interesting, don't forget to star them!
 
 ![Wave](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 ---
 
 <p align="center">
-  <i>✨ "The best way to predict the future is to invent it." – Alan Kay ✨</i>
+  <i>"The best way to predict the future is to invent it." – Alan Kay</i>
 </p>
 
 <p align="center">
-  <i>💻 Built with ❤ and curiosity by Sravya Isukapatla</i>
+  <i>Built with curiosity by Sravya Isukapatla</i>
 </p>
 
 </div>
