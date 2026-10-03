@@ -31,43 +31,7 @@
 
 ---
 
-## About Me
-
-> "Curious about knowing" - Exploring the endless possibilities of code, one project at a time
-
-I'm a *versatile developer* passionate about building innovative solutions across multiple platforms. From crafting beautiful mobile apps with Flutter to creating immersive 3D experiences and developing intelligent AI systems, I love turning ideas into reality. My curiosity drives me to constantly learn and experiment with new technologies.
-
-```typescript
-interface Developer {
-    name: string;
-    role: string;
-    location: string;
-    passions: string[];
-    currentlyLearning: string[];
-}
-
-const sravya: Developer = {
-    name: "Sravya Isukapatla",
-    role: "Full-Stack Developer & Mobile Enthusiast",
-    location: "India",
-    passions: ["Mobile Development", "Web Apps", "AI/ML", "3D Graphics"],
-    currentlyLearning: ["Flutter", "TypeScript", "Computer Vision", "IoT"]
-};
-
-console.log("Let's build something amazing together!");
-```
-
----
-
 ## Résumé
-
-> Computer Science student with experience in full-stack development, IoT systems, and real-time data processing. Skilled in Python, JavaScript, Dart, and backend development with hands-on experience building scalable applications and sensor-based monitoring systems. Experienced with Flutter, Node.js, MQTT, REST APIs, and containerized applications. Interested in backend engineering, cloud computing, and distributed systems.
-
-<p align="center">
-  <a href="./assets/Sravya_Isukapatla_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-F75C7E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" /></a>
-</p>
-
-**Core skills:** Python · JavaScript · Dart · C · Java · HTML/CSS · Flutter · Node.js · Flask · React · MongoDB · Firebase · Supabase · Docker · Linux · MQTT · REST APIs
 
 ### Education
 
